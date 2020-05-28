@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "689176999012",
+    "firebase_url": "https://chat-app-aa7ab.firebaseio.com",
+    "project_id": "chat-app-aa7ab",
+    "storage_bucket": "chat-app-aa7ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689176999012:android:62ae7d2a3ff1ba578edb71",
+        "android_client_info": {
+          "package_name": "voyaki.ru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689176999012-lq1tjtb4dndns5p3oc52uavckc3n7hti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "package.voyaki.ru",
+            "certificate_hash": "eaf7bb0b6a06a014c1006eff86831949b0d642e5"
+          }
+        },
+        {
+          "client_id": "689176999012-0bie1qe7onc2uvm61tcrkhcptk0vdo54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwrPT6bSaYBV2Ijpe_R9miEAhBvA1fz8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689176999012-0bie1qe7onc2uvm61tcrkhcptk0vdo54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
